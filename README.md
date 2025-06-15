@@ -2,6 +2,8 @@
 
 A modern, interactive Connect4 game built with React and Vite.
 
+🎮 **[Play Live Demo](https://connect-4-react-silk.vercel.app/)**
+
 ## 🎮 Game Features
 
 - **Classic 7x6 grid** Connect4 gameplay
@@ -49,5 +51,3 @@ The game features a modern design with:
 - Smooth animations and transitions
 - Responsive layout
 - Visual feedback for user interactions
-
-Built with love using React hooks and modern CSS techniques!
